@@ -31,7 +31,7 @@ tribble(
 
 
 # Work History
-\vfill
+
 
 ```{r}
 tribble(
@@ -43,13 +43,13 @@ tribble(
 
 * Responsible Engineer for the Kairos Power Fluoride Salt-Cooled High Temperature Reactor (KP-FHR) Mechanistic Source Term methodology development project which resulted in a topical report submitted in June, 2020.  
 
-* Contributor to the development of the KP-FHR Risk-Informed Performance-Based Licensing Basis Development Methodology Topical Report focusing on LBE and SSC classification Topical Report.
+* Contributor to the development of the KP-FHR Risk-Informed Performance-Based Licensing Basis Development Methodology Topical Report focusing on LBE and SSC classification.
 
 * Key developer of automated analysis-as-code development tools to support rapid iterations of the safety analysis.
 
 * Responsible Engineer for event sequence family frequency and source term analysis.
 
-\vfill
+\vspace{10pt}
 
 ```{r}
 tribble(
@@ -71,7 +71,7 @@ tribble(
 
 * Participant in the development of the Generation 4 International Forum Sodium Fast Reactor Safety Design Guidelines Task Force.
 
-\vfill
+\vspace{10pt}
 
 ```{r}
 tribble(
@@ -95,7 +95,7 @@ tribble(
     * Discrete Dynamic Event Trees via the ADAPT code, and
     * Decision analysis using Bayesian Networks.
 
-\vfill
+\vspace{10pt}
 
 ```{r}
 tribble(
@@ -107,7 +107,7 @@ tribble(
 
 Created relativity pulse magnitude predictive models to account for the effects of spectrum filter buckets using data derived through experimentation and MCNP simulation.
 
-\vfill
+\vspace{10pt}
 
 ```{r}
 library(tibble)
@@ -120,7 +120,7 @@ tribble(
 
 Conducted preventive maintenance on auxiliary feed-water pumps, diesel air-start motors, and radioactive waste management systems. Assisted with low power physics testing and approach to critical procedures coming out of the PSL 2-16 outage.
 
-\vfill
+\vspace{10pt}
 
 ```{r}
 tribble(
@@ -235,7 +235,7 @@ tribble(
   ~lang,  ~apps,
   "GitHub", "Code Review, Issues Tracking, Work Planning",
   "R",  "Generating Documents and Websites; Data Cleaning",
-  "LaTeX",  "Reports, Memos, and Jouranls",
+  "LaTeX",  "Reports, Memos, and Journals",
   "Python",  "Input Generation; Automation; Post-prossessing",
   "Matlab",  "Input Generation; Automation; Post-prossessing; Statistics",
   "Fortran", "School Assignments"
