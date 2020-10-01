@@ -1,7 +1,7 @@
 ---
 name: Matthew
 surname: Denman
-position: "Nuclear Power Probablistic Risk Analysis"
+position: "Nuclear Power Probablistic Risk Analyst"
 address: "Kairos Power"
 phone: +1(617)999-2848
 email: "denman@kairospower.com"
