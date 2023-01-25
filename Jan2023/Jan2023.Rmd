@@ -171,7 +171,7 @@ tribble(
 * 2019 - ANS Certificate of Governance, Chair, NISD, 2018-2019
 * 2011 - MIT College of Engineering Reinhold Rudenberg Memorial Prize 
 * 2009 - ANS Student Conference Best Fast Reactor Presentation
-* 2007 - ANS Student Conference Best in Poster Completion
+* 2007 - ANS Student Conference Best in Poster Competition
 * Honor Societies:
     * Alpha Nu Sigma
     * Tau Beta Pi
