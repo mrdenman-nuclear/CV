@@ -166,6 +166,7 @@ tribble(
 
 # Awards and Certificates
 
+* 2021 - ANS NISD: David Okrent Award for Nuclear Safety 
 * 2020 - JCNRM Certificate of Acclimation for technical contributions to the ANLWR PRA Standard
 * 2019 - ANS Certificate of Governance, Chair, NISD, 2018-2019
 * 2011 - MIT College of Engineering Reinhold Rudenberg Memorial Prize 
