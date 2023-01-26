@@ -41,13 +41,25 @@ tribble(
   detailed_entries(Employeer, Year, Position, Where)
 ```
 
-* Responsible Engineer for the Kairos Power Fluoride Salt-Cooled High Temperature Reactor (KP-FHR) Mechanistic Source Term methodology development project which resulted in a topical report submitted in June, 2020.  
+* Responsible Engineer, architect, and lead modeler for the Hermes reactor's
+Maximum Hypothetical Accident (MHA). The Hermes MHA is the first MHA developed
+for specifically for a reactor with a "functional containment" safety case. 
+The Hermes MHA is found in Chapter 13 of the Hermes Construction Permit
+Application. 
+
+* Responsible Engineer for the Hermes reactor's Steady State Effluent Release 
+and associated off-site dose methodology development and analysis. 
+The Hermes MHA is found in Chapter 13 of the Hermes Construction Permit
+Application. 
+
+
+* Responsible Engineer for the Kairos Power Fluoride Salt-Cooled High
+Temperature Reactor (KP-FHR) Mechanistic Source Term methodology development
+project which resulted in the first Nuclear Regulatory Commission approved 
+topical report. The first revision of the submitted in June, 2020 and the 
+Safety Evaluation was issued in April 2022.  
 
 * Contributor to the development of the KP-FHR Risk-Informed Performance-Based Licensing Basis Development Methodology Topical Report focusing on LBE and SSC classification.
-
-* Key developer of automated analysis-as-code development tools to support rapid iterations of the safety analysis.
-
-* Responsible Engineer for event sequence family frequency and source term analysis.
 
 \vspace{10pt}
 
@@ -135,7 +147,7 @@ Modeled potential particle blockage in spacer grids for pressurized water reacto
 
 # Professional Society Postions
 
-## Joint Committee of Nuclear Risk Managment
+## Joint Committee of Nuclear Risk Management
 
 ```{r}
 tribble(
@@ -271,11 +283,12 @@ tribble(
 
 # Awards and Certificates
 
+* 2021 - ANS NISD: David Okrent Award for Nuclear Safety 
 * 2020 - JCNRM Certificate of Acclimation for technical contributions to the ANLWR PRA Standard
 * 2019 - ANS Certificate of Governance, Chair, NISD, 2018-2019
 * 2011 - MIT College of Engineering Reinhold Rudenberg Memorial Prize 
 * 2009 - ANS Student Conference Best Fast Reactor Presentation
-* 2007 - ANS Student Conference Best in Poster Completion
+* 2007 - ANS Student Conference Best in Poster Competition
 * Honor Societies:
     * Alpha Nu Sigma
     * Tau Beta Pi
@@ -283,7 +296,7 @@ tribble(
     * 2012 - Decision-Making, Design, and Strategy Under Uncertainty
     * 2014 - Tackling the Challenges of Big Data, MIT
     * 2016 - Nuclear Plant Safety, MIT (Most Persistent Questioner Award)
-    
+  
 
 
 # Publications
