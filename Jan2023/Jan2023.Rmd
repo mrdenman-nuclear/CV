@@ -43,7 +43,7 @@ tribble(
 
 * Responsible Engineer, architect, and lead modeler for the Hermes reactor's
 Maximum Hypothetical Accident (MHA). The Hermes MHA is the first MHA developed
-for specifically for a reactor with a "functional containment" safety case. 
+specifically for a reactor with a "functional containment" safety case. 
 
 * Responsible Engineer for the Hermes reactor's Steady State Effluent Release 
 and associated off-site dose methodology development and analysis. 
