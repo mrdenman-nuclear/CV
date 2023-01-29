@@ -81,8 +81,8 @@ tribble(
 
 * Principal Investigator for:
     * a multi-institute, multi-disciplinary examination of safety and licensing gaps for the Sodium Fast Reactor.
-    * a LDRD project to create the mathematical formulation for Dynamic Fault Trees to inform decision makers of evolving state of support system success probability mid-accident.
-    * a two proof-of-concept Level 2 Risk Assessments to inform the development of Severe Accident Management Guidelines for both integral Pressurized Water Reactors and SFRs.
+    * a LDRD project to create the mathematical formulation for Dynamic Fault Trees to inform decision makers of the evolving state of support system success probability mid-accident.
+    * a proof-of-concept Level 2 Risk Assessments to inform the development of Severe Accident Management Guidelines for both integral Pressurized Water Reactors and SFRs.
 
 
 * Investigator responsible for:
