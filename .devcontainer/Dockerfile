@@ -10,12 +10,12 @@ WORKDIR /home/rstudio/CV
 # --
 # the `export MAKEFLAGS="-j `nproc`"` command is included to ensure the build fails
 # if an error occurs.
-RUN export MAKEFLAGS="-j `nproc`" ; \
-  apt-get update -y ; \
-  apt-get install -y yamllint ; \
+#RUN export MAKEFLAGS="-j `nproc`" ; \
+#  apt-get update -y ; \
+#  apt-get install -y yamllint ; \
   # Install Radian to support vscode R console
-  pip3 install -U radian ; \
+#  pip3 install -U radian ; \
   # Install common R packages
   # languageserver supports the R LSP extension in vscode, it allows
   # intellisence for R in vscode
-  install2.r --error --skipinstalled pander kableExtra git2r spelling DiagrammeR here languageserver gh tippy flextable ; \
+#  install2.r --error --skipinstalled pander kableExtra git2r spelling DiagrammeR here languageserver gh tippy flextable ; \
