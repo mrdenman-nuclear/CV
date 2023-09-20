@@ -2,8 +2,8 @@ FROM rocker/verse
 
 WORKDIR /home/rstudio
 # Dump in repo contents
-COPY . STANDARDS
-WORKDIR /home/rstudio/STANDARDS
+COPY . CV
+WORKDIR /home/rstudio/CV
 # Install python; install yamllint
 # for checking yaml file structure and graphviz to
 # enable dot language diagramming
@@ -12,7 +12,6 @@ WORKDIR /home/rstudio/STANDARDS
 # if an error occurs.
 RUN export MAKEFLAGS="-j `nproc`" ; \
   apt-get update -y ; \
-  apt-get install python3-pip -y ; \
   apt-get install -y yamllint ; \
   # Install Radian to support vscode R console
   pip3 install -U radian ; \
