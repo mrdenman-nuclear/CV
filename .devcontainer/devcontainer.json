@@ -1,0 +1,39 @@
+{
+  "name": "verse",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    // the following settings enable radian as the R console
+    // and turn on the R LSP diagnostics
+    "r.bracketedPaste": true,
+    "r.rterm.linux": "/usr/local/bin/radian",
+    "r.lsp.debug": false,
+    "r.lsp.diagnostics": false,
+    "r.rterm.option": [
+      "--no-save",
+      "--no-restore",
+      "--r-binary=/usr/local/bin/R"
+    ]
+  },
+  "extensions": [
+    "reditorsupport.r", // R
+    "ryu1kn.partial-diff", // vcode text diff tool
+    "redhat.vscode-yaml", // YAML
+    "github.github-vscode-theme", // Github color theme
+    "huacat.office-theme", // Office color theme
+    "liviuschera.noctis", // Noctis themes
+    "streetsidesoftware.code-spell-checker", // spell check
+    "grapecity.gc-excelviewer", // csv/excel viewer
+    "tht13.html-preview-vscode", // html preview
+    "tomoyukim.vscode-mermaid-editor", // mermaid preview
+    "vstirbu.vscode-mermaid-preview", // mermaid preview (another version)
+    "alefragnani.bookmarks", // code bookmarks
+    "wmaurer.change-case", // change-case
+    "stkb.rewrap", // reflow/rewrap comments
+    "joaompinto.vscode-graphviz", // graphviz syntax + preview
+    "tomoki1207.pdf", // vscode pdf viewer
+    "donjayamanne.githistory", // Git history
+    "wayou.vscode-todo-highlight" // TODO highlight (keyword highlighter)
+  ]
+}
